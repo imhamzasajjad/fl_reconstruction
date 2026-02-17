@@ -1,0 +1,23 @@
+# Model weights
+*.pt
+*.pth
+
+# TensorBoard logs
+runs/
+
+# Datasets
+data/
+datasets/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+env/
